@@ -1,0 +1,7 @@
+echo "# Tableau" >> README.md
+git init
+git add README.md
+git commit -m "Tableau"
+git branch -M main
+git remote add origin https://github.com/Susreesha/Tableau.git
+git push -u origin main
